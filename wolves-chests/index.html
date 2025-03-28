@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>DOW Wolves – Chest Tracker</title>
   <style>
     body {
@@ -9,6 +10,7 @@
       color: #fff;
       font-family: 'Segoe UI', sans-serif;
       padding: 2rem;
+      margin: 0;
     }
     h1 {
       color: #ffd700;
@@ -18,6 +20,18 @@
       color: #aaa;
       margin: 0;
       padding-bottom: 0.5rem;
+    }
+    .filter {
+      text-align: left;
+      margin-bottom: 0.5rem;
+    }
+    select {
+      padding: 0.4rem 1rem;
+      font-size: 1rem;
+      border-radius: 6px;
+      background-color: #1a1a1a;
+      color: #fff;
+      border: 1px solid #444;
     }
     .main-container {
       display: flex;
@@ -29,6 +43,7 @@
     .left {
       flex: 2;
       margin-top: -1.2rem;
+      min-width: 0;
     }
     .right {
       margin-top: 1.2rem;
@@ -37,15 +52,24 @@
       padding: 1rem;
       border: 1px solid #444;
       border-radius: 8px;
+      min-width: 280px;
     }
     table {
       width: 100%;
       border-collapse: collapse;
+      table-layout: fixed;
     }
     th, td {
       border: 1px solid #444;
-      padding: 0.5rem;
+      padding: 0.75rem 1rem;
       text-align: left;
+      white-space: nowrap;
+    }
+    td:nth-child(2),
+    td:nth-child(3),
+    th:nth-child(2),
+    th:nth-child(3) {
+      text-align: center;
     }
     th {
       background-color: #222;
@@ -78,49 +102,107 @@
     .rank-3 { background-color: #fe7d04; color: #000; }
     .rank-4 { background-color: #5e14f3; color: #fff; }
     .rank-5 { background-color: #2226f3; color: #000; }
+
+    @media (max-width: 768px) {
+      .main-container {
+        flex-direction: column;
+      }
+      .left, .right {
+        flex: 1 1 100%;
+        margin-top: 0;
+      }
+      table th, table td {
+        font-size: 0.9rem;
+        padding: 0.6rem;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+    }
   </style>
 </head>
 <body>
   <h1>🐺 DOW Wolves – Chest Tracker</h1>
-  <p style="text-align: center;">Report for <strong>28/03/2025</strong></p>
+  <div class="filter">
+    <label for="date-select">📅 Select a date: </label>
+    <select id="date-select"></select>
+  </div>
+  <div id="report-date" style="text-align: center; margin-bottom: 1rem;"></div>
 
   <div class="main-container">
     <div class="left">
-        <h2>📋 Member Contributions</h2>
-        <table>
+      <h2>📋 Member Contributions</h2>
+      <div style="overflow-x: auto;">
+        <table id="member-table">
+          <thead>
             <tr><th>Member</th><th>Chests</th><th>Score</th></tr>
-            <tr><td>Atilla</td><td>7</td><td>1898</td></tr><tr><td>Auzar</td><td>6</td><td>1447</td></tr><tr><td>Bomrin</td><td>4</td><td>347</td></tr><tr><td>Brummied</td><td>5</td><td>3384</td></tr><tr><td>Cid Campeador</td><td>5</td><td>752</td></tr><tr><td>Eufrozyna</td><td>4</td><td>766</td></tr><tr><td>Eulàlia</td><td>4</td><td>1276</td></tr><tr><td>Geel</td><td>3</td><td>663</td></tr><tr><td>Kristoff Maximus</td><td>6</td><td>2876</td></tr><tr><td>Linfiren</td><td>3</td><td>114</td></tr><tr><td>MiniAdo</td><td>2</td><td>717</td></tr><tr><td>Mongoose</td><td>5</td><td>1102</td></tr><tr><td>PUBLIC ENEMY</td><td>4</td><td>300</td></tr><tr><td>Salka</td><td>11</td><td>2537</td></tr><tr><td>Skënderbeu</td><td>4</td><td>1205</td></tr><tr><td>TLAYOLOTL</td><td>11</td><td>698</td></tr><tr><td>Tygrallador</td><td>8</td><td>804</td></tr><tr><td>WhiteRabbit</td><td>15</td><td>4353</td></tr><tr><td>YLLIABEL</td><td>3</td><td>280</td></tr><tr><td>island</td><td>3</td><td>435</td></tr><tr><td>raïley</td><td>3</td><td>39</td></tr>
+          </thead>
+          <tbody></tbody>
         </table>
+      </div>
     </div>
 
     <div class="right">
-      <h2>🏅 Top Contributor of the Day</h2>
+      <h2>🏅 Top Contributors of the Day</h2>
 
       <div class="top-box">
-        <h3 style="color: #ffd700; font-size: 1.1rem;">💥 Top 5 by Score</h3>
-        <div class="rank-box">
-          <div class="rank rank-1"><span>WhiteRabbit</span>4353</div>
-          <div class="rank rank-2"><span>Brummied</span>3384</div>
-          <div class="rank rank-3"><span>Kristoff Maximus</span>2876</div>
-          <div class="rank rank-4"><span>Salka</span>2537</div>
-          <div class="rank rank-5"><span>Atilla</span>1898</div>
-        </div>
+        <h3 style="color: #ffd700; font-size: 1.1rem;">🏆 Top 5 by Score</h3>
+        <div class="rank-box" id="top-score"></div>
       </div>
 
       <div class="top-box" style="margin-top: 2rem;">
         <h3 style="color: #ffd700; font-size: 1.1rem;">
-            <img src="loot_chest.png" alt="Chest" style="height: 1.2em; vertical-align: middle; margin-right: 6px;" />
-            Top 5 by Chests
-        </h3>          
-        <div class="rank-box">
-          <div class="rank rank-1"><span>WhiteRabbit</span>15</div>
-          <div class="rank rank-2"><span>TLAYOLOTL</span>11</div>
-          <div class="rank rank-3"><span>Salka</span>11</div>
-          <div class="rank rank-4"><span>Tygrallador</span>8</div>
-          <div class="rank rank-5"><span>Atilla</span>7</div>
-        </div>
+          <img src="loot_chest.png" alt="Chest" style="height: 1.2em; vertical-align: middle; margin-right: 6px;" />
+          Top 5 by Chests
+        </h3>
+        <div class="rank-box" id="top-chests"></div>
       </div>
     </div>
   </div>
+
+  <script>
+    const dateSelect = document.getElementById('date-select');
+    const reportDate = document.getElementById('report-date');
+    const tableBody = document.querySelector('#member-table tbody');
+    const topScoreBox = document.getElementById('top-score');
+    const topChestsBox = document.getElementById('top-chests');
+
+    async function loadDates() {
+      const res = await fetch('data/dates.json');
+      const dates = await res.json();
+      dateSelect.innerHTML = dates.map(d => `<option value="${d}">${d}</option>`).join('');
+      loadData(dates[dates.length - 1]);
+    }
+
+    async function loadData(date) {
+      const res = await fetch(`data/${date}.json`);
+      const raw = await res.json();
+
+      const summary = {};
+      raw.forEach(({ player, score }) => {
+        if (!summary[player]) summary[player] = { chests: 0, score: 0 };
+        summary[player].chests++;
+        summary[player].score += score;
+      });
+
+      const sorted = Object.entries(summary).sort((a, b) => a[0].localeCompare(b[0]));
+      tableBody.innerHTML = sorted.map(([name, val]) => `<tr><td>${name}</td><td>${val.chests}</td><td>${val.score}</td></tr>`).join('');
+
+      const topScore = Object.entries(summary)
+        .sort((a, b) => b[1].score - a[1].score)
+        .slice(0, 5);
+      const topChests = Object.entries(summary)
+        .sort((a, b) => b[1].chests - a[1].chests)
+        .slice(0, 5);
+
+      const rankClass = i => `rank rank-${i + 1}`;
+
+      topScoreBox.innerHTML = topScore.map(([p, v], i) => `<div class="${rankClass(i)}"><span>${p}</span>${v.score}</div>`).join('');
+      topChestsBox.innerHTML = topChests.map(([p, v], i) => `<div class="${rankClass(i)}"><span>${p}</span>${v.chests}</div>`).join('');
+    }
+
+    dateSelect.addEventListener('change', e => loadData(e.target.value));
+    loadDates();
+  </script>
 </body>
 </html>
