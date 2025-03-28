@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DOW Wolves – Chest Tracker</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 2rem;
+    }
+    h1 {
+      color: #ffd700;
+      text-align: center;
+    }
+    h2 {
+      color: #aaa;
+      margin: 0;
+      padding-bottom: 0.5rem;
+    }
+    .main-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+    .left {
+      flex: 2;
+      margin-top: -1.2rem;
+    }
+    .right {
+      margin-top: 1.2rem;
+      flex: 1;
+      background-color: #1a1a1a;
+      padding: 1rem;
+      border: 1px solid #444;
+      border-radius: 8px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.5rem;
+      text-align: left;
+    }
+    th {
+      background-color: #222;
+      color: #ffd700;
+    }
+    tr:nth-child(even) {
+      background-color: #222;
+    }
+    .top-box h3 {
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+    .rank-box {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .rank {
+      display: flex;
+      align-items: center;
+      padding: 0.4rem 0.6rem;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    .rank span {
+      flex: 1;
+    }
+    .rank-1 { background-color: #ffc400; color: #000; }
+    .rank-2 { background-color: #e33838; color: #fff; }
+    .rank-3 { background-color: #fe7d04; color: #000; }
+    .rank-4 { background-color: #5e14f3; color: #fff; }
+    .rank-5 { background-color: #2226f3; color: #000; }
+  </style>
+</head>
+<body>
+  <h1>🐺 DOW Wolves – Chest Tracker</h1>
+  <p style="text-align: center;">Report for <strong>28/03/2025</strong></p>
 
+  <div class="main-container">
+    <div class="left">
+        <h2>📋 Member Contributions</h2>
+        <table>
+            <tr><th>Member</th><th>Chests</th><th>Score</th></tr>
+            <tr><td>Atilla</td><td>7</td><td>1898</td></tr><tr><td>Auzar</td><td>6</td><td>1447</td></tr><tr><td>Bomrin</td><td>4</td><td>347</td></tr><tr><td>Brummied</td><td>5</td><td>3384</td></tr><tr><td>Cid Campeador</td><td>5</td><td>752</td></tr><tr><td>Eufrozyna</td><td>4</td><td>766</td></tr><tr><td>Eulàlia</td><td>4</td><td>1276</td></tr><tr><td>Geel</td><td>3</td><td>663</td></tr><tr><td>Kristoff Maximus</td><td>6</td><td>2876</td></tr><tr><td>Linfiren</td><td>3</td><td>114</td></tr><tr><td>MiniAdo</td><td>2</td><td>717</td></tr><tr><td>Mongoose</td><td>5</td><td>1102</td></tr><tr><td>PUBLIC ENEMY</td><td>4</td><td>300</td></tr><tr><td>Salka</td><td>11</td><td>2537</td></tr><tr><td>Skënderbeu</td><td>4</td><td>1205</td></tr><tr><td>TLAYOLOTL</td><td>11</td><td>698</td></tr><tr><td>Tygrallador</td><td>8</td><td>804</td></tr><tr><td>WhiteRabbit</td><td>15</td><td>4353</td></tr><tr><td>YLLIABEL</td><td>3</td><td>280</td></tr><tr><td>island</td><td>3</td><td>435</td></tr><tr><td>raïley</td><td>3</td><td>39</td></tr>
+        </table>
+    </div>
+
+    <div class="right">
+      <h2>🏅 Top Contributor of the Day</h2>
+
+      <div class="top-box">
+        <h3 style="color: #ffd700; font-size: 1.1rem;">💥 Top 5 by Score</h3>
+        <div class="rank-box">
+          <div class="rank rank-1"><span>WhiteRabbit</span>4353</div>
+          <div class="rank rank-2"><span>Brummied</span>3384</div>
+          <div class="rank rank-3"><span>Kristoff Maximus</span>2876</div>
+          <div class="rank rank-4"><span>Salka</span>2537</div>
+          <div class="rank rank-5"><span>Atilla</span>1898</div>
+        </div>
+      </div>
+
+      <div class="top-box" style="margin-top: 2rem;">
+        <h3 style="color: #ffd700; font-size: 1.1rem;">
+            <img src="loot_chest.png" alt="Chest" style="height: 1.2em; vertical-align: middle; margin-right: 6px;" />
+            Top 5 by Chests
+        </h3>          
+        <div class="rank-box">
+          <div class="rank rank-1"><span>WhiteRabbit</span>15</div>
+          <div class="rank rank-2"><span>TLAYOLOTL</span>11</div>
+          <div class="rank rank-3"><span>Salka</span>11</div>
+          <div class="rank rank-4"><span>Tygrallador</span>8</div>
+          <div class="rank rank-5"><span>Atilla</span>7</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
