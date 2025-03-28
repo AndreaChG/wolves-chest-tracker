@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DOW Wolves – Chest Tracker</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #1b1b1b;
+      color: #f2f2f2;
+      margin: 0;
+      padding: 1rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      font-size: 1.8rem;
+      color: #ffd700;
+    }
+    .logo {
+      width: 60px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    th {
+      background-color: #333;
+    }
+    .status {
+      font-weight: bold;
+    }
+    .ok {
+      color: #00ff88;
+    }
+    .alert {
+      color: #ff5555;
+    }
+    .filter-section {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .top5 {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.imgur.com/VwsDUeq.png" alt="Clan Logo" class="logo" />
+    <h1>DOW Wolves – Chest Tracker</h1>
+    <p>Discipline, loyalty, and a bit of glorious madness 🐺</p>
+  </header>
+
+  <div class="filter-section">
+    <label for="dateFilter">📆 Filter by date: </label>
+    <input type="date" id="dateFilter" />
+  </div>
+
+  <div id="tableContainer"></div>
+
+  <div class="top5">
+    <h2>🔥 Top 5 Contributors of the Day</h2>
+    <ol id="top5List"></ol>
+  </div>
+
+  <script>
+    const data = [
+      { date: '2025-03-26', player: 'WhiteRabbit', chests: 6, score: 210 },
+      { date: '2025-03-26', player: 'WraithStriker', chests: 8, score: 290 },
+      { date: '2025-03-26', player: 'Eulàlia', chests: 4, score: 120 },
+      { date: '2025-03-26', player: 'AnyaSpy', chests: 2, score: 65 },
+      { date: '2025-03-26', player: 'Ankayel', chests: 5, score: 155 },
+      { date: '2025-03-27', player: 'WhiteRabbit', chests: 3, score: 100 },
+      { date: '2025-03-27', player: 'AnyaSpy', chests: 5, score: 120 },
+      { date: '2025-03-27', player: 'WraithStriker', chests: 6, score: 180 },
+      { date: '2025-03-27', player: 'Alex B2', chests: 4, score: 110 },
+      { date: '2025-03-27', player: 'Eulàlia', chests: 7, score: 200 },
+    ];
+
+    const tableContainer = document.getElementById('tableContainer');
+    const top5List = document.getElementById('top5List');
+
+    const renderTable = (filteredData) => {
+      let tableHTML = '<table><thead><tr><th>Player</th><th>Chests</th><th>Score</th><th>Status</th></tr></thead><tbody>';
+
+      filteredData.forEach(row => {
+        const status = row.chests >= 5 ? '<span class="status ok">✅</span>' : '<span class="status alert">⚠️</span>';
+        tableHTML += `<tr><td>${row.player}</td><td>${row.chests}</td><td>${row.score}</td><td>${status}</td></tr>`;
+      });
+
+      tableHTML += '</tbody></table>';
+      tableContainer.innerHTML = tableHTML;
+    };
+
+    const updateTop5 = (filteredData) => {
+      const sorted = [...filteredData].sort((a, b) => b.chests - a.chests).slice(0, 5);
+      top5List.innerHTML = '';
+      sorted.forEach(p => {
+        top5List.innerHTML += `<li>${p.player} – ${p.chests} chests</li>`;
+      });
+    };
+
+    const filterByDate = () => {
+      const selectedDate = document.getElementById('dateFilter').value;
+      const filtered = data.filter(d => d.date === selectedDate);
+      renderTable(filtered);
+      updateTop5(filtered);
+    };
+
+    document.getElementById('dateFilter').addEventListener('change', filterByDate);
+
+    // Auto-load today's date data if available
+    const today = new Date().toISOString().split('T')[0];
+    document.getElementById('dateFilter').value = today;
+    filterByDate();
+  </script>
+</body>
+</html>
