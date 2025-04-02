@@ -15,6 +15,9 @@
     h1 {
       color: #ffd700;
       text-align: center;
+      font-size: 1.6rem;
+      transition: font-size 0.3s ease;
+      word-wrap: break-word;
     }
     h2 {
       color: #aaa;
@@ -22,8 +25,21 @@
       padding-bottom: 0.5rem;
     }
     .filter {
-      text-align: left;
-      margin-bottom: 0.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+      align-items: center;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .filter select {
+      min-width: 150px;
     }
     select {
       padding: 0.4rem 1rem;
@@ -32,6 +48,10 @@
       background-color: #1a1a1a;
       color: #fff;
       border: 1px solid #444;
+    }
+    select:focus {
+      border-color: #ffd700;
+      box-shadow: 0 0 3px #ffd700;
     }
     .main-container {
       display: flex;
@@ -57,19 +77,23 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      table-layout: fixed;
+      table-layout: auto;
     }
     th, td {
       border: 1px solid #444;
       padding: 0.75rem 1rem;
       text-align: left;
-      white-space: nowrap;
+      word-break: break-word;
     }
     td:nth-child(2),
+    th:nth-child(2) {
+      text-align: center;
+      width: 60px;
+    }
     td:nth-child(3),
-    th:nth-child(2),
     th:nth-child(3) {
       text-align: center;
+      width: 60px;
     }
     th {
       background-color: #222;
@@ -85,25 +109,75 @@
     .rank-box {
       display: flex;
       flex-direction: column;
-      gap: 0.5rem;
+      gap: 0.3rem;
     }
     .rank {
       display: flex;
       align-items: center;
+      justify-content: space-between;
       padding: 0.4rem 0.6rem;
-      border-radius: 6px;
+      border-radius: 4px;
       font-weight: bold;
+      transition: all 0.3s ease-in-out;
+      overflow: hidden;
+      flex-wrap: nowrap;
+      position: relative;
+    }
+    .rank:hover {
+      transform: scale(1.02);
+      box-shadow: 0 0 8px rgba(255,255,255,0.2);
+    }
+    .rank .player {
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
     }
     .rank span {
       flex: 1;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
     }
-    .rank-1 { background-color: #ffc400; color: #000; }
-    .rank-2 { background-color: #e33838; color: #fff; }
-    .rank-3 { background-color: #fe7d04; color: #000; }
-    .rank-4 { background-color: #5e14f3; color: #fff; }
-    .rank-5 { background-color: #2226f3; color: #000; }
-
+    .rank-1 {
+      background-color: #ffc400;
+      color: #000;
+      box-shadow: 0 0 10px #ffc400;
+    }
+    .rank-1 {
+      background: linear-gradient(90deg, #ffd700, #ffec8b);
+      color: #000;
+      box-shadow: 0 0 10px #ffc400;
+    }
+    .rank-2 {
+      background-color: #e33838;
+      color: #fff;
+    }
+    .rank-3 {
+      background-color: #fe7d04;
+      color: #000;
+    }
+    .rank-4 {
+      background-color: #5e14f3;
+      color: #fff;
+    }
+    .rank-5 {
+      background-color: #2226f3;
+      color: #000;
+    }
+    .no-data {
+      text-align: center;
+      color: #ccc;
+      font-style: italic;
+      margin: 1rem 0;
+    }
     @media (max-width: 768px) {
+      h1 {
+        font-size: 1.2rem;
+      }
       .main-container {
         flex-direction: column;
       }
@@ -111,12 +185,30 @@
         flex: 1 1 100%;
         margin-top: 0;
       }
-      table th, table td {
-        font-size: 0.9rem;
-        padding: 0.6rem;
+      .filter {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.75rem;
       }
-      h1 {
-        font-size: 1.8rem;
+      .filter-group {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      select {
+        font-size: 0.85rem;
+        padding: 0.3rem 0.6rem;
+      }
+      .filter label {
+        font-size: 0.85rem;
+      }
+      th, td {
+        font-size: 0.85rem;
+        padding: 0.5rem 0.6rem;
+      }
+      .rank {
+        font-size: 0.85rem;
+        padding: 0.3rem 0.5rem;
       }
     }
   </style>
@@ -124,10 +216,26 @@
 <body>
   <h1>🐺 DOW Wolves – Chest Tracker</h1>
   <div class="filter">
-    <label for="date-select">📅 Select a date: </label>
-    <select id="date-select"></select>
+    <div class="filter-group">
+      <label for="cycle-select">🏁 TC Cycle:</label>
+      <select id="cycle-select">
+        <option value="" disabled selected>-- Select Cycle --</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="view-select">📊 View:</label>
+      <select id="view-select">
+        <option value="weekly">Weekly</option>
+        <option value="daily">Daily</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="date-select">📅 Select:</label>
+      <select id="date-select">
+        <option value="" disabled selected>-- Select --</option>
+      </select>
+    </div>
   </div>
-  <div id="report-date" style="text-align: center; margin-bottom: 1rem;"></div>
 
   <div class="main-container">
     <div class="left">
@@ -139,17 +247,16 @@
           </thead>
           <tbody></tbody>
         </table>
+        <div class="no-data" id="no-data" style="display: none;">No records available.</div>
       </div>
     </div>
 
     <div class="right">
-      <h2>🏅 Top Contributors of the Day</h2>
-
+      <h2>🏅 Top Contributors</h2>
       <div class="top-box">
         <h3 style="color: #ffd700; font-size: 1.1rem;">🏆 Top 5 by Score</h3>
         <div class="rank-box" id="top-score"></div>
       </div>
-
       <div class="top-box" style="margin-top: 2rem;">
         <h3 style="color: #ffd700; font-size: 1.1rem;">
           <img src="loot_chest.png" alt="Chest" style="height: 1.2em; vertical-align: middle; margin-right: 6px;" />
@@ -161,22 +268,66 @@
   </div>
 
   <script>
+    const cycleSelect = document.getElementById('cycle-select');
+    const viewSelect = document.getElementById('view-select');
     const dateSelect = document.getElementById('date-select');
-    const reportDate = document.getElementById('report-date');
     const tableBody = document.querySelector('#member-table tbody');
     const topScoreBox = document.getElementById('top-score');
     const topChestsBox = document.getElementById('top-chests');
+    const noDataDiv = document.getElementById('no-data');
 
-    async function loadDates() {
-      const res = await fetch('data/dates.json');
-      const dates = await res.json();
-      dateSelect.innerHTML = dates.map(d => `<option value="${d}">${d}</option>`).join('');
-      loadData(dates[dates.length - 1]);
+    let cycles = {};
+
+    async function loadCycles() {
+      const res = await fetch('data/cycles.json');
+      cycles = await res.json();
+      const cycleOptions = Object.keys(cycles).map(c => `<option value="${c}">${c}</option>`);
+      cycleSelect.innerHTML = '<option value="" disabled selected>-- Select Cycle --</option>' + cycleOptions.join('');
     }
 
-    async function loadData(date) {
-      const res = await fetch(`data/${date}.json`);
-      const raw = await res.json();
+    function loadDates() {
+      const selectedCycle = cycleSelect.value;
+      const viewType = viewSelect.value;
+      if (!selectedCycle || !cycles[selectedCycle]) return;
+
+      const dates = cycles[selectedCycle][viewType];
+      dateSelect.innerHTML = '<option value="" disabled selected>-- Select --</option>' + dates.map(d => `<option value="${d}">${d}</option>`).join('');
+      tableBody.innerHTML = '';
+      topScoreBox.innerHTML = '';
+      topChestsBox.innerHTML = '';
+      noDataDiv.style.display = 'none';
+    }
+
+    async function loadData(key) {
+      if (!key) return;
+      const selectedCycle = cycleSelect.value;
+      const viewType = viewSelect.value;
+      let raw = [];
+
+      if (viewType === 'weekly') {
+        const weekDates = cycles[selectedCycle]['daily'].filter(date => {
+          const day = parseInt(date.split('-')[2], 10);
+          const weekNum = Math.ceil(day / 7);
+          return `week ${weekNum}` === key;
+        });
+
+        for (const date of weekDates) {
+          try {
+            const res = await fetch(`data/${date}.json`);
+            const dayData = await res.json();
+            raw.push(...dayData);
+          } catch (err) {
+            console.warn(`No data found for ${date}`);
+          }
+        }
+      } else {
+        try {
+          const res = await fetch(`data/${key}.json`);
+          raw = await res.json();
+        } catch (err) {
+          console.warn(`No data found for ${key}`);
+        }
+      }
 
       const summary = {};
       raw.forEach(({ player, score }) => {
@@ -188,21 +339,26 @@
       const sorted = Object.entries(summary).sort((a, b) => a[0].localeCompare(b[0]));
       tableBody.innerHTML = sorted.map(([name, val]) => `<tr><td>${name}</td><td>${val.chests}</td><td>${val.score}</td></tr>`).join('');
 
-      const topScore = Object.entries(summary)
-        .sort((a, b) => b[1].score - a[1].score)
-        .slice(0, 5);
-      const topChests = Object.entries(summary)
-        .sort((a, b) => b[1].chests - a[1].chests)
-        .slice(0, 5);
-
       const rankClass = i => `rank rank-${i + 1}`;
+
+      if (sorted.length === 0) {
+        noDataDiv.style.display = 'block';
+        noDataDiv.textContent = viewType === 'daily' ? 'There are no records for this date.' : 'There are no records for this week.';
+      } else {
+        noDataDiv.style.display = 'none';
+      }
+
+      const topScore = Object.entries(summary).sort((a, b) => b[1].score - a[1].score).slice(0, 5);
+      const topChests = Object.entries(summary).sort((a, b) => b[1].chests - a[1].chests).slice(0, 5);
 
       topScoreBox.innerHTML = topScore.map(([p, v], i) => `<div class="${rankClass(i)}"><span>${p}</span>${v.score}</div>`).join('');
       topChestsBox.innerHTML = topChests.map(([p, v], i) => `<div class="${rankClass(i)}"><span>${p}</span>${v.chests}</div>`).join('');
     }
 
+    cycleSelect.addEventListener('change', loadDates);
+    viewSelect.addEventListener('change', loadDates);
     dateSelect.addEventListener('change', e => loadData(e.target.value));
-    loadDates();
+    loadCycles();
   </script>
 </body>
 </html>
