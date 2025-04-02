@@ -2968,5 +2968,1085 @@
     "source": "Bank",
     "chest": "Golden Chest",
     "score": 340
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 25 Crypt",
+    "chest": "Sand Chest",
+    "score": 550
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "island",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "island",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "island",
+    "source": "Level 25 Crypt",
+    "chest": "Cobra Chest",
+    "score": 550
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "island",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Clan wealth",
+    "chest": "Common Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Clan wealth",
+    "chest": "Uncommon Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Clan wealth",
+    "chest": "Rare Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Clan wealth",
+    "chest": "Epic Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Gin and Juice",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Sand Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 1000
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 1000
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 1000
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1000
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 1000
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Cobra Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Derin",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Derin",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Burus",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Burus",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Burus",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 5 Crypt",
+    "chest": "Infernal Chest",
+    "score": 13
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 5 Crypt",
+    "chest": "Sand Chest",
+    "score": 13
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 20 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 598
+  },
+  {
+    "player": "Conquer Of Universe",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 18
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Malang",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 308
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 15 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 308
+  },
+  {
+    "player": "Malang",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1000
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Bastion Chest",
+    "score": 598
+  },
+  {
+    "player": "Pipper",
+    "source": "Level 20 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 598
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Folinan BOW",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
   }
 ]
