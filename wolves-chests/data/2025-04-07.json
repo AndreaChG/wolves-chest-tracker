@@ -1,0 +1,4580 @@
+[
+  {
+    "player": "Derin",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Derin",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Derin",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "island",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "island",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "island",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Anubis",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Anubis",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Anubis",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Atlantis II",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Atlantis II",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Atlantis II",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Moondragon",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Linfiren",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "KHARMA",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Finiing",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Finiing",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Finiing",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "fab007",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "fab007",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "fab007",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Nakoma",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Brummied",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Shalilune",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Ephesus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Ephesus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Ephesus",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Atilla",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Atilla",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Atilla",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Gesa",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Gesa",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Gesa",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Precious Chest",
+    "score": 670
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Geel",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Geel",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Geel",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 598
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 308
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 308
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Artemis",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Artemis",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Conjulas",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 epic Crypt",
+    "chest": "Abandoned Chest",
+    "score": 598
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 598
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 epic Crypt",
+    "chest": "Abandoned Chest",
+    "score": 598
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "raïley",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Warrior's Chest",
+    "score": 598
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Moondragon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 308
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Auzar",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Level 15 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 308
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Level 15 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 308
+  },
+  {
+    "player": "Burus",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Conquer Of Universe",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Burus",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Burus",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "The Myrmidon",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Finiing",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Conjulas",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Bastion Chest",
+    "score": 598
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 598
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Level 23 heroic Monster",
+    "chest": "Cursed Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 308
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Tartaros Crypt level 25",
+    "chest": "Tartaros Chest",
+    "score": 800
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "DuzyCharlie",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Cobra Chest",
+    "score": 550
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 30 epic Crypt",
+    "chest": "Abandoned Chest",
+    "score": 1184
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Ironside",
+    "source": "Union of Triumph",
+    "chest": "Union Chest",
+    "score": 0
+  },
+  {
+    "player": "Ironside",
+    "source": "Union of Triumph",
+    "chest": "Union Chest",
+    "score": 0
+  },
+  {
+    "player": "Ironside",
+    "source": "Union of Triumph",
+    "chest": "Union Chest",
+    "score": 0
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 30 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 1184
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "Artemis",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Artemis",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 35",
+    "chest": "Tartaros Chest",
+    "score": 1480
+  },
+  {
+    "player": "KHARMA",
+    "source": "Tartaros Crypt level 30",
+    "chest": "Tartaros Chest",
+    "score": 1200
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "KHARMA",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 10 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 35
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 5 Crypt",
+    "chest": "Infernal Chest",
+    "score": 13
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 15 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 308
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "House of Horrors Chest",
+    "score": 598
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 598
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 598
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 308
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 598
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Tartaros Crypt level 15",
+    "chest": "Tartaros Chest",
+    "score": 130
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Tartaros Crypt level 10",
+    "chest": "Tartaros Chest",
+    "score": 66
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "MACIEJ",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 5 Crypt",
+    "chest": "Mayan Chest",
+    "score": 13
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Tartaros Crypt level 20",
+    "chest": "Tartaros Chest",
+    "score": 319
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 308
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Bones",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 10 Crypt",
+    "chest": "Stone Chest",
+    "score": 35
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Bones",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "Finiing",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 5 Crypt",
+    "chest": "Infernal Chest",
+    "score": 13
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 5 Crypt",
+    "chest": "Bone Chest",
+    "score": 13
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 5 Crypt",
+    "chest": "Bone Chest",
+    "score": 13
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 598
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 25 Crypt",
+    "chest": "Sand Chest",
+    "score": 550
+  },
+  {
+    "player": "kari",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "kari",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 1000
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Level 25 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 1000
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Ironside",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 1000
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Brummied",
+    "source": "Clan wealth",
+    "chest": "Common Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Brummied",
+    "source": "Clan wealth",
+    "chest": "Uncommon Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Brummied",
+    "source": "Clan wealth",
+    "chest": "Rare Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Brummied",
+    "source": "Clan wealth",
+    "chest": "Epic Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Geel",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Atilla",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 5 Crypt",
+    "chest": "Fire Chest",
+    "score": 13
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Bomrin",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 5 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 13
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 25 Crypt",
+    "chest": "Cobra Chest",
+    "score": 550
+  },
+  {
+    "player": "Geel",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "Morarn",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 308
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 308
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "fab007",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Damon",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Damon",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Malang",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Ephesus",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Shalilune",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Malang",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Malang",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 20 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 598
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Warrior's Chest",
+    "score": 598
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Hermes’ Store",
+    "chest": "Hermes Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Ankayel",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Bastion Chest",
+    "score": 598
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Ankayel",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Ankayel",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  }
+]
