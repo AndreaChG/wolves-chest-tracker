@@ -1,0 +1,7772 @@
+[
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Roberts",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Gleladod",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Morarn",
+    "source": "Bank",
+    "chest": "Silver Chest",
+    "score": 145
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Pipper",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Wooden Chest",
+    "score": 38
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Bank",
+    "chest": "Bronze Chest",
+    "score": 82
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 25 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 1000
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 25 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 1000
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "Ankayel",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Ankayel",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 25 Crypt",
+    "chest": "Sand Chest",
+    "score": 550
+  },
+  {
+    "player": "Geel",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 35
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Gesa",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Lord Farquaad",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Lord Farquaad",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Lord Farquaad",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Mercenary Exchange",
+    "chest": "Merchant's Chest",
+    "score": 515
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 308
+  },
+  {
+    "player": "Marantall",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Gesa",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Gesa",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Lord Farquaad",
+    "source": "Level 15 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 308
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Dairamar",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Ange185",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "island",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "island",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "island",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "island",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "island",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Odysseus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Marantall",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Marantall",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Marantall",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Marantall",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Marantall",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "TS Baran",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "TS Baran",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "TS Baran",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "TS Baran",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Raf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Gesa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Gesa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Gesa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Gesa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Gesa",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Roberts",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Roberts",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Roberts",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Roberts",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eulàlia",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "CrixusX2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Moraima",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Moraima",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Moraima",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Moraima",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Bones",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Bones",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bones",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bones",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bones",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ankayel",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ankayel",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ankayel",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ankayel",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ironside",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Moraima",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "Ironside",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Moraima",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Raf",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "fab007",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Sand Chest",
+    "score": 550
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Dingo Kaneef",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Artur",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Warrior's Chest",
+    "score": 598
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 598
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Level 20 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 598
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "TS Baran",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "f a Common Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Uncommon Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Rare Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Epic Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Mspawn311",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "Morarn",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 30 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 1184
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 5 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 13
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 598
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 25 Citadel",
+    "chest": "Cursed Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 598
+  },
+  {
+    "player": "Artemis",
+    "source": "Level 5 Crypt",
+    "chest": "Fire Chest",
+    "score": 13
+  },
+  {
+    "player": "Morarn",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 10 Crypt",
+    "chest": "Stone Chest",
+    "score": 35
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 5 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 13
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Warrior's Chest",
+    "score": 598
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 5 Crypt",
+    "chest": "Bone Chest",
+    "score": 13
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 15 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 308
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Nakoma",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 598
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 epic Crypt",
+    "chest": "Ancient Bastion Chest",
+    "score": 598
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Kratos",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 1000
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "GM Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Cobra Chest",
+    "score": 550
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 epic Crypt",
+    "chest": "House of Horrors Chest",
+    "score": 1000
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1000
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 1000
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 1000
+  },
+  {
+    "player": "Odysseus",
+    "source": "Level 25 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 1000
+  },
+  {
+    "player": "Beanara",
+    "source": "Mercenary Exchange",
+    "chest": "Merchant's Chest",
+    "score": 515
+  },
+  {
+    "player": "Naong",
+    "source": "Level 35 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1480
+  },
+  {
+    "player": "Naong",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Naong",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Naong",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "Burus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Burus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Burus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Burus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Burus",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Naong",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Moondragon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Moondragon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Moondragon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Moondragon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "KHARMA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Naong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kratos",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Moondragon",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Morarn",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Bto Wong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bto Wong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bto Wong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Bto Wong",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ankayel",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "SüLocann 171",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "TS Baran",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Conjulas",
+    "source": "Level 10 Crypt",
+    "chest": "Stone Chest",
+    "score": 35
+  },
+  {
+    "player": "TS Baran",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "TS Baran",
+    "source": "Level 25 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 550
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 15 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 308
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Conjulas",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "TS Baran",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Linfiren",
+    "source": "Level 15 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 308
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 598
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 598
+  },
+  {
+    "player": "Conjulas",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Malang",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Malang",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 5 Crypt",
+    "chest": "Stone Chest",
+    "score": 13
+  },
+  {
+    "player": "Malang",
+    "source": "Level 20 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 598
+  },
+  {
+    "player": "AnyaSpy",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "island",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "island",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 epic Crypt",
+    "chest": "Ancient Warrior's Chest",
+    "score": 308
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 308
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 1000
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 epic Crypt",
+    "chest": "Ancient Bastion Chest",
+    "score": 308
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 308
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Level 20 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 598
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Damon",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Queen Dee",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Damon",
+    "source": "Level 25 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 1000
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Damon",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Damon",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Dairamar",
+    "source": "Mercenary Exchange",
+    "chest": "Merchant's Chest",
+    "score": 515
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 30 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 1184
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Alpha",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 598
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 598
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Mongoose",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 10 Crypt",
+    "chest": "Sand Chest",
+    "score": 35
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 25 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1000
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 30 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1184
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 25 Crypt",
+    "chest": "Stone Chest",
+    "score": 550
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 epic Crypt",
+    "chest": "(Gen) Trillium Chest",
+    "score": 598
+  },
+  {
+    "player": "Beanara",
+    "source": "Level 15 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 308
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 10 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 35
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "f a Common Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Uncommon Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Rare Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Epic Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Elegant Chest",
+    "score": 13
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 308
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 30 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1184
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 Crypt",
+    "chest": "Infernal Chest",
+    "score": 75
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 20 epic Crypt",
+    "chest": "Chest of the Cursed",
+    "score": 598
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 30 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 1184
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 30 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1184
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Moondragon",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Gleladod",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Damon",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Eydanen",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eydanen",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eydanen",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eydanen",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Nakoma",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eydanen",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Pipper",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 598
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 epic Crypt",
+    "chest": "Cobalt Chest",
+    "score": 308
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 598
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Elegant Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Fire Chest",
+    "score": 75
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "kari",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "kari",
+    "source": "Level 15 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 308
+  },
+  {
+    "player": "kari",
+    "source": "Level 5 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 13
+  },
+  {
+    "player": "kari",
+    "source": "Level 10 Crypt",
+    "chest": "Infernal Chest",
+    "score": 35
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 598
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 epic Crypt",
+    "chest": "Priest's Chest",
+    "score": 598
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Silver",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 308
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 20 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 598
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 15 epic Crypt",
+    "chest": "Trillium Chest",
+    "score": 308
+  },
+  {
+    "player": "Dairamar",
+    "source": "Level 15 epic Crypt",
+    "chest": "Titansteel Chest",
+    "score": 308
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 66
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Silver",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 5 Crypt",
+    "chest": "Cobra Chest",
+    "score": 13
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "kari",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "kari",
+    "source": "Level 20 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 598
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "kari",
+    "source": "Level 20 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 598
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 15 Crypt",
+    "chest": "Cobra Chest",
+    "score": 75
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 Crypt",
+    "chest": "Elegant Chest",
+    "score": 550
+  },
+  {
+    "player": "Princess Noli",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 epic Crypt",
+    "chest": "Turtle Chest",
+    "score": 1000
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1000
+  },
+  {
+    "player": "kari",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Tom the Cabin Boy",
+    "source": "Level 25 epic Crypt",
+    "chest": "House of Horrors Chest",
+    "score": 1000
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 25 epic Crypt",
+    "chest": "Scorpion Chest",
+    "score": 1000
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 15 epic Crypt",
+    "chest": "Abandoned Chest",
+    "score": 308
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "raïley",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "raïley",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "raïley",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Ditaxe",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Linfiren",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Dairamar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Roberts",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Conjulas",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "YLLIABEL",
+    "source": "Rise of Ancients",
+    "chest": "Ancients’ Chest",
+    "score": 200
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 Crypt",
+    "chest": "Sand Chest",
+    "score": 75
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Sand Chest",
+    "score": 167
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Salka",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Salka",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Atilla",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Salka",
+    "source": "Level 25 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 550
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "f a Common Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Uncommon Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Rare Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "SANGEETA",
+    "source": "Clan wealth",
+    "chest": "Epic Chest of Wealth",
+    "score": 0
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 15 epic Crypt",
+    "chest": "House of Horrors Chest",
+    "score": 308
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 15 epic Crypt",
+    "chest": "Minotaur Chest",
+    "score": 308
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 167
+  },
+  {
+    "player": "Auzar",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Povilinskas",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 10 Crypt",
+    "chest": "Stone Chest",
+    "score": 35
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 20 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 598
+  },
+  {
+    "player": "Skënderbeu",
+    "source": "Level 20 epic Crypt",
+    "chest": "Barbarian Chest",
+    "score": 598
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "WhiteRabbit",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "TS Baran",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Bank",
+    "chest": "Golden Chest",
+    "score": 340
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 17 heroic Monster",
+    "chest": "Elven Chest",
+    "score": 110
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Level 17 heroic Monster",
+    "chest": "Elven Chest",
+    "score": 110
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Alex B2",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "SBD",
+    "source": "Level 10 Crypt",
+    "chest": "Bone Chest",
+    "score": 35
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 25 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1000
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 35 epic Crypt",
+    "chest": "Braided Chest",
+    "score": 1480
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "The Dog",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "DuzyCharlie",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "DuzyCharlie",
+    "source": "Mercenary Exchange",
+    "chest": "Merchant's Chest",
+    "score": 515
+  },
+  {
+    "player": "kenpachi zaraki",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "kenpachi zaraki",
+    "source": "Level 20 Crypt",
+    "chest": "Cobra Chest",
+    "score": 167
+  },
+  {
+    "player": "kenpachi zaraki",
+    "source": "Level 20 Crypt",
+    "chest": "Infernal Chest",
+    "score": 167
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Thutmose III",
+    "source": "Arena",
+    "chest": "Gladiator's Chest",
+    "score": 30
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 10 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 35
+  },
+  {
+    "player": "Atilla",
+    "source": "Level 20 Crypt",
+    "chest": "Elegant Chest",
+    "score": 167
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 30 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1184
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 30 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1184
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 25 epic Crypt",
+    "chest": "White Wood Chest",
+    "score": 1000
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Level 15 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 75
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "WraithStriker",
+    "source": "Level 20 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 50
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 25 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 120
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Level 25 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 550
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "fab007",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "fab007",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "fab007",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "fab007",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "MiniAdo",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "fab007",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Anubis",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Anubis",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Anubis",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Anubis",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Finiing",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Ephesus",
+    "source": "Mercenary Exchange",
+    "chest": "Merchant's Chest",
+    "score": 515
+  },
+  {
+    "player": "Cid Campeador",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Auzar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Auzar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Auzar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Auzar",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SBD",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Quick March Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "Hair Weave Killa",
+    "source": "Rise of Ancients",
+    "chest": "Ancients' Chest",
+    "score": 200
+  },
+  {
+    "player": "SBD",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "kari",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 20 Crypt",
+    "chest": "Stone Chest",
+    "score": 167
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 75
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "McGeyerver",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Stone Chest",
+    "score": 75
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Citadel",
+    "chest": "Elven Citadel Chest",
+    "score": 30
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 35
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 10 Crypt",
+    "chest": "Mayan Chest",
+    "score": 35
+  },
+  {
+    "player": "Tygrallador",
+    "source": "Level 15 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 75
+  },
+  {
+    "player": "Bones",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "PUBLIC ENEMY",
+    "source": "Level 15 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 130
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "Lord Farquaad",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 25 Crypt",
+    "chest": "Forgotten Chest",
+    "score": 550
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 167
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Anubis",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Infernal Chest",
+    "score": 550
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Mayan Chest",
+    "score": 550
+  },
+  {
+    "player": "Dire Wolf",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 Crypt",
+    "chest": "Bone Chest",
+    "score": 550
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Geel",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 5 Crypt",
+    "chest": "Orc Chest",
+    "score": 13
+  },
+  {
+    "player": "Kristoff Maximus",
+    "source": "Level 25 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 800
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 10 Crypt",
+    "chest": "Cobra Chest",
+    "score": 35
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 5 Crypt",
+    "chest": "Infernal Chest",
+    "score": 13
+  },
+  {
+    "player": "Geel",
+    "source": "Level 25 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 550
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 10 Crypt",
+    "chest": "Orc Chest",
+    "score": 35
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 25 Crypt",
+    "chest": "Fire Chest",
+    "score": 550
+  },
+  {
+    "player": "Arevenilas",
+    "source": "Level 5 Crypt",
+    "chest": "Orc Chest",
+    "score": 13
+  },
+  {
+    "player": "Bomrin",
+    "source": "Carrot Monster",
+    "chest": "Carrot Chest",
+    "score": 0
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 30 epic Crypt",
+    "chest": "Scarab Chest",
+    "score": 1184
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Fire Chest",
+    "score": 167
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 5 Crypt",
+    "chest": "Gnome Workshop Chest",
+    "score": 13
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 Crypt",
+    "chest": "Bone Chest",
+    "score": 167
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 10 Crypt",
+    "chest": "Fire Chest",
+    "score": 35
+  },
+  {
+    "player": "Eydanen",
+    "source": "Level 30 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 1200
+  },
+  {
+    "player": "Eufrozyna",
+    "source": "Level 20 epic Crypt",
+    "chest": "Harpy Chest",
+    "score": 598
+  },
+  {
+    "player": "Cpt Chaos",
+    "source": "Level 25 Crypt",
+    "chest": "Orc Chest",
+    "score": 550
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 rare Crypt",
+    "chest": "Rare Dragon Chest",
+    "score": 319
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Elegant Chest",
+    "score": 75
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Orc Chest",
+    "score": 75
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 Crypt",
+    "chest": "Barbarian Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Mayan Chest",
+    "score": 75
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 Crypt",
+    "chest": "Orc Chest",
+    "score": 167
+  },
+  {
+    "player": "raïley",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  },
+  {
+    "player": "Bomrin",
+    "source": "Level 20 Crypt",
+    "chest": "Mayan Chest",
+    "score": 167
+  },
+  {
+    "player": "Gesa",
+    "source": "Level 15 Crypt",
+    "chest": "Bone Chest",
+    "score": 75
+  }
+]
